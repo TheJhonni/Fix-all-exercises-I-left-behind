@@ -127,3 +127,7 @@ let percentuageNumb = 20;
 let percentageFinal = (num / 100) * 20;
 
 console.log(percentuageFinal);
+
+
+// M1-DAY4 // 
+
